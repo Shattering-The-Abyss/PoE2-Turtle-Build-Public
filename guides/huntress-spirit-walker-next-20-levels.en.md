@@ -1,54 +1,193 @@
-# Huntress First 20 Levels: Spirit Walker Companion Direction
+# Huntress Next-20-Level Guide: Spirit Walker Companion Direction
 
 Date: 2026-05-30
 
-Current early state:
+Current character:
 
 ```text
-Level 2 Huntress
-Skills: Spear Throw, Parry, Whirling Slash
+Level 10 Huntress
+Ascendancy: None
+Planned lane: Huntress -> Spirit Walker -> companion / summon / turtle survival
 ```
 
-Planned direction:
+## Truth Boundary
+
+This is a live leveling guide, not an exact endgame tree.
+
+The point is to make the next 20 levels coherent while moving toward the first real Spirit Walker / companion checkpoint.
+
+Do not lock exact passive names unless they are confirmed in-game or from a current planner export.
+
+## Current Build State
+
+The early attack shell is online:
 
 ```text
-Huntress -> Spirit Walker -> summon / companion / turtle-style survival
+Whirling Slash level 3 + Rapid Attacks I
+Twister level 3 + Magnified Area I
+Explosive Spear level 3 + Elemental Armament I + Heightened Accuracy I
+Disengage level 1
+Spear Throw level 1
+Parry level 1
 ```
 
-## Core Idea
+Current read:
 
-Do not force a full minion build at level 2.
+- `Whirling Slash` is the setup / movement pressure tool.
+- `Twister` is the pack-clear payoff.
+- `Explosive Spear` is the rare / boss pressure tool.
+- `Disengage` is the safety exit and should stay available.
+- `Spear Throw` is fallback safe poke.
+- `Parry` is optional; keep it only if it feels reliable.
 
-The early game should be:
+Major warning:
 
 ```text
-Level with a safe Huntress weapon/survival shell first.
-Pivot into Spirit Walker companion support when the game actually gives the tools.
+Elemental resistances are very negative.
+Damage loop is online; gear priority now shifts toward life and resists.
 ```
 
-That means:
+## One-Line Plan
 
-- stay alive first
-- keep the early attack setup smooth
-- avoid long travel to distant generic minion clusters
-- keep the path open for later Spirit Walker companion scaling
-- verify passive and skill choices in-game instead of pretending the tree is already solved
+Next 20 levels: keep the safe spear Huntress shell working, fix defenses, drift toward companion / Spirit Walker support, and only commit to summons when the game actually gives the tools.
 
-## Tree Radar
+## Immediate Play Loop
+
+Default pack loop:
+
+```text
+Whirling Slash to set up or enter safely.
+Twister to clear the pack.
+Disengage out if the pack, rare, or boss pattern becomes unsafe.
+Explosive Spear for rares, bosses, and heavier targets.
+Spear Throw for safe poke or awkward windows.
+```
+
+Do not overuse `Whirling Slash` as a panic button. It clears, but it can also pull the character deeper into danger.
+
+## Immediate Gear Priority
+
+The build can kill. Now it needs to stop getting randomly exploded.
+
+Upgrade priority:
+
+1. life
+2. fire resistance
+3. cold resistance
+4. lightning resistance
+5. movement speed
+6. better spear damage only if rares or bosses feel slow
+
+Do not chase extra support sockets before fixing obvious defensive holes.
+
+## Gem Priorities
+
+Current gem state is good enough for this stage.
+
+Next skill gem priorities:
+
+1. upgrade the skill that is actually carrying the current zone
+2. keep `Whirling Slash`, `Twister`, and `Explosive Spear` reasonably current
+3. add a clean defensive or movement utility if one appears
+4. test companion / spirit skills immediately once offered, but do not force support gems before the skill exists
+
+Next support gem priorities:
+
+1. improve `Twister` payoff if a clean support appears
+2. improve `Whirling Slash` setup speed, radius, or safety
+3. improve `Explosive Spear` single-target reliability
+4. stash extra level 1 support gems if there is no clear target
+
+Do not socket filler just because a gem is available.
+
+## Passive Priority
+
+The next passive points should preserve the functioning early shell while preparing the later companion turn.
+
+Priority order:
+
+1. nearby survival and spear / projectile / attack efficiency
+2. nearby life, evasion, or defensive stat if path-efficient
+3. nearby Huntress / Ranger-side companion support if confirmed
+4. spirit / reservation support if it directly unlocks more companion setup
+5. jewel sockets only if the path is already efficient or the jewel is real
+6. distant generic minion clusters only after Spirit Walker mechanics prove they are worth the travel
+
+Avoid:
+
+- long travel toward distant Witch-style minion clusters
+- speculative companion nodes before companion gameplay exists
+- glass-cannon damage if the character is already taking scary hits
+
+Treat actual gameplay feel as the truth source. If attacks feel like they miss too much, check accuracy, dex, and weapon upgrades before blaming the build.
+
+## Level Bands
+
+### Levels 10-12: Stabilize The Shell
+
+Goal:
+
+```text
+Keep Whirling / Twister / Explosive Spear smooth while fixing obvious gear holes.
+```
+
+Take efficient nearby attack, spear, projectile, life, or evasion nodes. Do not detour yet.
+
+### Levels 13-17: Prepare The Pivot
+
+Goal:
+
+```text
+Stay strong enough to kill campaign bosses while scouting companion / spirit / reservation support.
+```
+
+If companion gameplay appears, test it immediately. Keep personal spear damage as backup until the companion is actually useful.
+
+If no companion support appears, stay with safe spear Huntress leveling and keep moving.
+
+### Levels 18-22: First Real Build Decision
+
+Classify the build state:
+
+```text
+Green: companion / summon is available, useful, and fun.
+Yellow: companion / summon exists but is weak or clunky; keep spear shell while testing.
+Red: no meaningful companion path yet, or the character feels bad and unsafe.
+```
+
+Green route:
+
+- start investing in companion / minion support
+- keep defensive floor first
+- use personal attacks for positioning and cleanup
+
+Yellow route:
+
+- keep hybrid Huntress leveling
+- take only the most efficient companion nodes
+- delay full commitment until first ascendancy or stronger gem access
+
+Red route:
+
+- stop and reassess
+- do not keep sinking points into a bad-feeling path
+- consider a safer backup if the character feels fundamentally bad
+
+## Forward Tree Radar
 
 Current directional read:
 
 ```text
 Do not beeline north to generic Witch minion clusters during the first 20 levels.
-Stay near the Huntress/Ranger side and drift toward companion-specific support.
+Stay near the Huntress / Ranger side and drift toward companion-specific support.
 ```
 
 Why:
 
 - Huntress starts on the Dexterity / Ranger-Huntress side of the tree.
-- Spirit Walker is more companion / spirit / idol / beast-taming themed than generic Witch skeleton minion.
-- Distant generic minion support may cost too much early travel.
-- If companion damage later cares about main-hand weapon damage, early spear/weapon pathing may still support the eventual hybrid companion setup.
+- Spirit Walker identity appears closer to companion / spirit / idol / beast-taming than generic skeleton minions.
+- Generic minion support may be too much travel early unless a confirmed current build proves it.
+- If companion damage later cares about main-hand weapon damage, early spear pathing may still matter.
 
 The early tree should aim for:
 
@@ -62,15 +201,11 @@ not:
 pure Witch minion tree from level 2
 ```
 
-## Passive Search Blocks
+## Search Blocks
 
-Use these as in-game passive-tree search terms.
-
-Each term is separated so it is easy to copy.
+Use these as copy blocks in the in-game passive tree. They are scout terms, not commandments.
 
 ### Companion
-
-Primary Spirit Walker / beast / ally direction.
 
 ```text
 Companion
@@ -78,15 +213,11 @@ Companion
 
 ### Allies
 
-Useful if companion support is worded as ally support instead of direct minion support.
-
 ```text
 Allies
 ```
 
 ### Presence
-
-Check for aura-like, radius, or companion-presence mechanics.
 
 ```text
 Presence
@@ -94,15 +225,11 @@ Presence
 
 ### Reservation
 
-Important if companion/spirit setup is gated by spirit or reservation pressure.
-
 ```text
 Reservation
 ```
 
 ### Spirit
-
-Core Spirit Walker resource/theme search.
 
 ```text
 Spirit
@@ -110,96 +237,23 @@ Spirit
 
 ### Minion
 
-Useful for overlap checks, but do not blindly path to far Witch-style minion clusters early.
-
 ```text
 Minion
 ```
 
-### Idol
+Use cautiously. Good for checking overlap, but do not blindly path to distant Witch-style minion clusters early.
 
-Check if Spirit Walker support is expressed through idol wording.
+### Idol
 
 ```text
 Idol
 ```
 
-## Early Leveling Shell: Whirling / Twister Huntress
+## Early Notable Scout List
 
-Current scout read:
-
-```text
-Use a fast Huntress attack shell first.
-Treat Spirit Walker companion as the later pivot.
-```
-
-The early character needs a practical body before the companion plan is online. A Whirling / Twister-style Huntress shell looks like a reasonable early bridge if it feels good in play.
-
-This does not replace the Spirit Walker plan.
-
-It gets the character to the point where Spirit Walker and companion decisions matter.
-
-## Skill Direction
-
-Use available skills in this priority.
-
-### Spear Throw
-
-Safe poke / default early damage.
-
-```text
-Spear Throw
-```
-
-### Whirling Slash
-
-Primary early clear if it feels safe.
-
-Do not spin into danger just because it clears fast.
-
-```text
-Whirling Slash
-```
-
-### Twister
-
-Scout as soon as it becomes available.
-
-If it feels strong, use it as the smoother clear engine with Whirling Slash.
-
-```text
-Twister
-```
-
-### Parry
-
-Keep only if it feels reliable.
-
-Do not build survival around a defensive button that feels inconsistent.
-
-```text
-Parry
-```
-
-### Rapid Assault
-
-Scout if offered.
-
-Good candidate if movement / attack flow feels better than the starting kit.
-
-```text
-Rapid Assault
-```
-
-## Early Notable / Cluster Scout List
-
-These are candidate names to search while leveling.
-
-Treat them as scout targets, not blind commandments. If a name is not visible in the current tree, or the route is too expensive, skip it and keep following the priority rules.
+Search these while leveling if they are nearby. Skip names that are not visible or require bad travel.
 
 ### Primal Instinct
-
-Likely early-quality candidate if it supports smooth Huntress attack leveling.
 
 ```text
 Primal Instinct
@@ -207,15 +261,11 @@ Primal Instinct
 
 ### Stalk and Leap
 
-Scout for mobility / attack flow / Huntress-style reposition support.
-
 ```text
 Stalk and Leap
 ```
 
 ### Splinters
-
-Scout if projectile / spear clear needs help.
 
 ```text
 Splinters
@@ -223,15 +273,11 @@ Splinters
 
 ### Cooked
 
-Scout only if the current skill setup benefits from the damage type or ailment direction nearby.
-
 ```text
 Cooked
 ```
 
 ### Perfectly Placed Knife
-
-Scout as a possible precision / crit / hit-quality node if it is path-efficient.
 
 ```text
 Perfectly Placed Knife
@@ -239,21 +285,15 @@ Perfectly Placed Knife
 
 ### Focused Thrust
 
-Scout as spear / thrust / attack scaling if it is nearby and improves boss damage.
-
 ```text
 Focused Thrust
 ```
 
 ### Versatile Arms
 
-Scout if weapon flexibility or a mixed attack setup becomes relevant.
-
 ```text
 Versatile Arms
 ```
-
-## Early Cluster Rule
 
 Take a leveling notable only if it passes at least two checks:
 
@@ -262,111 +302,26 @@ Take a leveling notable only if it passes at least two checks:
 3. it helps survival, movement, or boss uptime
 4. it does not pull the tree away from later companion support
 
-Skip nodes that are theoretically good but make the current campaign worse.
+## What To Report After The Next Segment
 
-## Level Buckets
+Report:
 
-### Levels 2-7: Stabilize The Opener
+- current level
+- new skill/support gems offered
+- whether any companion / summon / spirit option appeared
+- first death or near-death cause
+- whether `Parry` is useful or annoying
+- whether `Whirling Slash` causes unsafe positioning
+- whether boss damage feels slow
+- whether the build is still fun
 
-Priority:
+## Decision History
 
-1. nearby spear / projectile / attack damage if directly efficient
-2. attack speed or projectile speed if it improves feel
-3. life / evasion / defensive stat if available without bad travel
-4. attributes only if needed for gem or gear requirements
+Key decisions already made:
 
-Avoid:
-
-- long travel toward distant minion clusters
-- speculative companion nodes before companion gameplay exists
-- glass-cannon damage if you are already taking scary hits
-
-Gameplay:
-
-- use `Spear Throw` as default safe damage
-- use `Whirling Slash` only when it is safe to enter packs
-- test whether `Parry` feels reliable or too timing-sensitive
-
-### Levels 8-12: First Identity Check
-
-Priority:
-
-1. keep the early damage skill feeling smooth
-2. take the first efficient life/evasion layer if the tree offers it
-3. watch for companion/summon/spirit skill access
-4. if companion/minion tools appear, test them immediately but do not overcommit yet
-
-Question:
-
-```text
-Is the game letting this become Spirit Walker companion yet,
-or is this still a spear Huntress leveling shell?
-```
-
-If no companion/summon support exists yet, keep pathing like a safe spear/projectile character.
-
-### Levels 13-17: Transition Preparation
-
-Priority:
-
-1. preserve survivability
-2. take efficient companion/minion/ally/spirit/reservation nodes only if nearby and relevant
-3. keep enough personal damage to kill campaign bosses
-4. avoid dead points that only become useful much later
-
-If companion gameplay is online:
-
-- start shifting toward companion uptime and companion damage/life
-- keep personal spear damage as backup
-- evaluate whether the companion is tanking, distracting, or actually killing
-
-If companion gameplay is not online:
-
-- continue spear/projectile leveling
-- do not panic-pivot yet
-- mark it yellow only if the base Huntress gameplay feels bad
-
-### Levels 18-22: First Real Build Decision
-
-By this point, decide one of three states:
-
-```text
-Green: companion/summon is available, useful, and fun.
-Yellow: companion/summon exists but is weak/clunky; keep spear shell while testing.
-Red: no meaningful companion path yet, or the character feels bad and unsafe.
-```
-
-Green route:
-
-- start investing in companion/minion support
-- keep defensive floor first
-- use personal attacks for positioning and cleanup
-
-Yellow route:
-
-- keep hybrid Huntress leveling
-- take only the most efficient companion nodes
-- delay full commitment until first ascendancy / stronger gem access
-
-Red route:
-
-- stop and reassess
-- do not keep sinking points into a bad-feeling path
-- consider a safer backup if the character feels fundamentally bad
-
-## Practical Recommendation
-
-For now:
-
-```text
-Play as safe spear/Whirling/Twister Huntress until companion identity appears.
-Do not force Witch-style minion assumptions onto Huntress.
-Treat Spirit Walker summon as the destination, not the level-2 opener.
-```
-
-One-line plan:
-
-```text
-First 20 levels: safe Huntress attack shell first, companion transition second, full Spirit Walker commitment only after real support appears.
-```
-
+- `Twister level 3` was not a mistake.
+- `Rapid Attacks I` belongs on `Whirling Slash`.
+- `Explosive Spear` was the correct early single-target addition.
+- `Elemental Armament I` and `Heightened Accuracy I` are currently on `Explosive Spear`.
+- `Magnified Area I` is currently on `Twister`.
+- Extra support gems should be stashed unless they have a clear job.

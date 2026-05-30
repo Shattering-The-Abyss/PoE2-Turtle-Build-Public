@@ -1,37 +1,177 @@
-# Huntress 前 20 級路線：Spirit Walker 夥伴召喚方向
+# Huntress 接下來 20 級指南：Spirit Walker 夥伴方向
 
-日期：2026-05-29
+日期：2026-05-30
 
-目前角色狀態：
-
-```text
-Level 2 Huntress
-技能：Spear Throw、Parry、Whirling Slash
-```
-
-預計方向：
+目前角色：
 
 ```text
-Huntress -> Spirit Walker -> 召喚 / 夥伴 / 烏龜流
+Level 10 Huntress
+Ascendancy: None
+預計路線：Huntress -> Spirit Walker -> 夥伴 / 召喚 / 烏龜生存流
 ```
 
-## 核心原則
+## 真實邊界
 
-前 20 級不要急著假裝自己已經是完整召喚流。
+這是一份「實戰升級指南」，不是假裝已經解完的 endgame 天賦樹。
 
-比較安全的打法是：
+目標是讓接下來 20 級有清楚方向，同時往第一個真正的 Spirit Walker / 夥伴 checkpoint 靠近。
+
+除非已經在遊戲內或當前 planner export 裡確認，否則不要把任何被動名稱當成絕對答案。
+
+## 目前 Build 狀態
+
+早期攻擊外殼已經成形：
 
 ```text
-先用 Huntress 武器與生存能力平穩升級。
-等遊戲真的給出 Spirit Walker / 夥伴 / 召喚支援後，再轉進召喚方向。
+Whirling Slash level 3 + Rapid Attacks I
+Twister level 3 + Magnified Area I
+Explosive Spear level 3 + Elemental Armament I + Heightened Accuracy I
+Disengage level 1
+Spear Throw level 1
+Parry level 1
 ```
 
-也就是：
+目前判斷：
 
-- 前期先活著
-- 不硬走遠路
-- 不把 Witch 召喚流的直覺硬套到 Huntress
-- 先保留後面轉 Spirit Walker 夥伴流的空間
+- `Whirling Slash` 是 setup / 移動壓力工具。
+- `Twister` 是清怪 payoff。
+- `Explosive Spear` 是 rare / boss 壓力工具。
+- `Disengage` 是安全撤退鍵，應該保留。
+- `Spear Throw` 是安全補刀和 fallback poke。
+- `Parry` 是選配；只有手感可靠才保留。
+
+重大警告：
+
+```text
+元素抗性非常負。
+傷害循環已經能運作，裝備優先級現在要轉向生命和抗性。
+```
+
+## 一句話計畫
+
+接下來 20 級：先把安全長矛 Huntress 外殼維持住，補防禦，往 companion / Spirit Walker 支援靠近，等遊戲真的給召喚工具後再全力轉。
+
+## 立即打法循環
+
+一般清怪循環：
+
+```text
+Whirling Slash 安全進場或建立 setup。
+Twister 清怪。
+遇到怪群、rare、boss pattern 危險時用 Disengage 拉開。
+Explosive Spear 處理 rare、boss、厚血目標。
+Spear Throw 處理安全 poke 或尷尬空窗。
+```
+
+不要把 `Whirling Slash` 當成無腦 panic button。它能清怪，但也可能把角色送進更危險的位置。
+
+## 立即裝備優先級
+
+這個 build 已經能殺怪。現在重點是不要被莫名其妙炸死。
+
+裝備升級順序：
+
+1. 生命
+2. 火抗
+3. 冰抗
+4. 電抗
+5. 跑速
+6. 只有 rare 或 boss 明顯太慢時，才優先換更好的長矛傷害
+
+不要在明顯防禦漏洞還沒補上前，先追求更多 support socket。
+
+## Gem 優先級
+
+目前 gem 狀態在這個階段已經夠用。
+
+下一個 skill gem 優先級：
+
+1. 升級目前真正扛圖的技能
+2. 讓 `Whirling Slash`、`Twister`、`Explosive Spear` 維持在合理等級
+3. 如果有乾淨的防禦或移動工具，可以考慮加入
+4. 一旦出現 companion / spirit 技能，立刻測試，但不要在技能本體出現前硬塞召喚 support
+
+下一個 support gem 優先級：
+
+1. 如果有乾淨支援，先提升 `Twister` payoff
+2. 提升 `Whirling Slash` setup 速度、範圍或安全性
+3. 提升 `Explosive Spear` 單體穩定度
+4. 如果沒有明確目標，多的 level 1 support gem 先存起來
+
+不要只是因為有 gem 就亂插 filler。
+
+## 被動天賦優先級
+
+接下來的被動點，要維持目前能打的早期外殼，同時替後面 companion 轉向留路。
+
+優先順序：
+
+1. 附近的生存、長矛、投射物、攻擊效率
+2. 如果路線划算，拿附近生命、閃避、防禦屬性
+3. 如果確認存在，拿 Huntress / Ranger 側附近的 companion 支援
+4. 只有能直接解鎖更多 companion 配置時，才考慮 spirit / reservation 支援
+5. jewel socket 只有在路線本來就順，或真的有好 jewel 時才拿
+6. 遠方通用 minion cluster 要等 Spirit Walker 機制證明值得旅行後再說
+
+避免：
+
+- 早期長途旅行去遠方 Witch-style minion cluster
+- companion 玩法還沒出現前就亂點猜測節點
+- 角色已經會痛，還繼續點玻璃大砲
+
+實戰手感是真實來源。如果攻擊感覺常 miss，先檢查 accuracy、dex、武器升級，不要馬上怪 build。
+
+## 等級區間
+
+### Levels 10-12：穩住外殼
+
+目標：
+
+```text
+維持 Whirling / Twister / Explosive Spear 順手，同時修明顯裝備洞。
+```
+
+拿附近高效率攻擊、長矛、投射物、生命或閃避節點。現在還不要亂繞遠路。
+
+### Levels 13-17：準備轉型
+
+目標：
+
+```text
+保留足夠劇情 boss 傷害，同時偵查 companion / spirit / reservation 支援。
+```
+
+如果 companion 玩法出現，立刻測試。等 companion 真的有用之前，個人長矛傷害仍然當 backup。
+
+如果沒有 companion 支援，繼續安全長矛 Huntress 升級，不要急轉。
+
+### Levels 18-22：第一次真正決策點
+
+把 build 狀態分成三種：
+
+```text
+綠燈：companion / summon 已經能用、有趣、而且有幫助。
+黃燈：companion / summon 有出現，但弱或卡手；先維持 spear shell 邊測。
+紅燈：沒有 meaningful companion path，或角色又脆又難玩。
+```
+
+綠燈：
+
+- 開始投資 companion / minion 支援
+- 仍然先保防禦底線
+- 個人攻擊用來走位、補刀、清空窗
+
+黃燈：
+
+- 繼續 hybrid Huntress 升級
+- 只拿最高效率的 companion 節點
+- 等第一次 ascendancy 或更強 gem 後再決定是否全轉
+
+紅燈：
+
+- 停下來重看
+- 不要繼續把點數丟進難受的方向
+- 如果角色本體感覺很差，考慮更安全的備案
 
 ## 天賦樹雷達
 
@@ -39,170 +179,149 @@ Huntress -> Spirit Walker -> 召喚 / 夥伴 / 烏龜流
 
 ```text
 前 20 級不要一路往北衝去找通用 Witch minion cluster。
-先留在 Huntress / Ranger 這一側，往夥伴專屬支援靠近。
+先留在 Huntress / Ranger 這一側，往 companion-specific support 靠近。
 ```
 
 原因：
 
-- Huntress 起點在敏捷 / Ranger-Huntress 側。
-- Spirit Walker 的核心比較像夥伴、靈體、圖騰 / idol、野獸馴服，而不是傳統 Witch 骷髏召喚。
-- 通用 minion 支援通常更偏智力 / 北方區域，早期硬衝過去可能浪費太多點數。
-- 如果後面拿到讓夥伴吃主手武器傷害的機制，前期武器 / 長矛路線也不一定浪費。
+- Huntress 起點在 Dexterity / Ranger-Huntress 側。
+- Spirit Walker 身份比較像 companion / spirit / idol / beast-taming，不是通用骷髏召喚。
+- 早期跑去遠方通用 minion 支援，可能旅行成本太高。
+- 如果後面 companion 傷害會吃主手武器傷害，早期長矛路線可能仍然有價值。
 
-遊戲內搜尋天賦時，可以試：
-
-- `Companion`
-- `Allies`
-- `Presence`
-- `Reservation`
-- `Spirit`
-- `Minion`
-- `Idol`
-
-路線優先順序：
-
-1. 附近能讓升級更順的生存、長矛、投射物、攻擊節點
-2. Huntress / Ranger 側附近的夥伴專屬支援
-3. 如果能直接解鎖更多夥伴配置，再考慮 reservation / spirit 支援
-4. jewel socket 只有在路線本來就順、或真的有好 jewel 時才拿
-5. 遠方通用 minion cluster 等 Spirit Walker 機制證明值得再說
-
-一句話：
+早期天賦樹應該追求：
 
 ```text
-前期目標不是純 Witch minion，而是安全的 Huntress 路線，不堵死後面轉 Spirit Walker 夥伴。
+安全 Huntress 路線，不堵死後面 companion 轉向
 ```
 
-## Levels 2-7：穩住開局
-
-優先順序：
-
-1. 附近高效率的長矛 / 投射物 / 攻擊傷害
-2. 如果手感有提升，拿攻速或投射物速度
-3. 如果路線不虧，拿生命 / 閃避 / 防禦節點
-4. 屬性點只在技能或裝備需求卡住時補
-
-避免：
-
-- 早期長途旅行去遠方 minion cluster
-- 還沒看到夥伴玩法，就先點一堆猜測節點
-- 角色已經會痛，還繼續全點玻璃大砲
-
-打法：
-
-- `Spear Throw` 當安全輸出
-- `Whirling Slash` 只在安全時進場，不要拿它亂衝怪堆
-- `Parry` 要測手感：如果太吃反應或不可靠，就不要把生存都壓在它上面
-
-## Levels 8-12：第一次身份檢查
-
-優先順序：
-
-1. 保持目前輸出技能手感順
-2. 如果天賦樹附近有高效率生命 / 閃避，可以先拿
-3. 留意有沒有 companion / summon / spirit 相關技能或支援出現
-4. 如果出現夥伴 / 召喚技能，馬上測，但不要立刻全押
-
-要回答的問題：
+而不是：
 
 ```text
-遊戲現在讓我們開始像 Spirit Walker 夥伴流了嗎？
-還是目前其實仍然只是 spear Huntress 升級外殼？
+level 2 就硬走純 Witch minion tree
 ```
 
-如果還沒有夥伴 / 召喚支援，就繼續用安全長矛 / 投射物升級。
+## 搜尋區塊
 
-## Levels 13-17：準備轉型
+在遊戲內被動樹可以複製這些詞搜尋。它們是 scout terms，不是命令。
 
-優先順序：
-
-1. 保持生存
-2. 只有在附近且真的有用時，才拿 companion / minion / ally / spirit / reservation 節點
-3. 保留足夠個人傷害，避免劇情 boss 打不動
-4. 不點那種很晚才會生效的死點
-
-如果夥伴玩法已經能運作：
-
-- 開始往夥伴存活、夥伴傷害、夥伴 uptime 靠
-- 個人長矛傷害保留當備用
-- 觀察夥伴是在坦、在干擾，還是真的能打傷害
-
-如果夥伴玩法還沒出來：
-
-- 繼續 spear / projectile 升級
-- 不急著 pivot
-- 只有當 Huntress 本體玩法也很難受時，才標記成黃燈
-
-## Levels 18-22：第一次真正決策點
-
-到這裡大概分三種情況：
+### Companion
 
 ```text
-綠燈：夥伴 / 召喚已經能用、有趣、而且有幫助。
-黃燈：夥伴 / 召喚有出現，但弱或卡手，先維持 spear hybrid。
-紅燈：沒有 meaningful companion path，或角色又脆又難玩。
+Companion
 ```
 
-綠燈：
+### Allies
 
-- 開始投資夥伴 / minion 支援
-- 仍然先保防禦底線
-- 個人攻擊用來補刀、走位、處理空窗
+```text
+Allies
+```
 
-黃燈：
+### Presence
 
-- 繼續 hybrid Huntress 升級
-- 只拿最有效率的夥伴節點
-- 等第一次 ascendancy 或更強技能後再決定全轉
+```text
+Presence
+```
 
-紅燈：
+### Reservation
 
-- 停下來重看
-- 不要一直把點數丟進難受的方向
-- 可以考慮換備案，例如冷系控制烏龜流
+```text
+Reservation
+```
 
-## 技能方向
+### Spirit
 
-目前早期技能：
+```text
+Spirit
+```
 
-- `Spear Throw`：安全遠距 / 投射輸出
-- `Parry`：防禦技，但要看實戰是否可靠
-- `Whirling Slash`：清怪 / 位移工具，但亂用會把角色送進危險位置
+### Minion
 
-想補的東西：
+```text
+Minion
+```
 
-- 移動技能
-- 緊急防禦按鈕
-- 第一個 companion / minion / spirit 技能
-- 增加 uptime、生存、簡單傷害的 support
+這個要小心用。可以查 overlap，但不要早期盲目走去遠方 Witch-style minion cluster。
 
-## 下一段遊玩要觀察什麼
+### Idol
 
-玩到下一個 checkpoint 時，記一下：
+```text
+Idol
+```
 
-- 現在等級
-- 新拿到哪些技能 / support
+## 早期 Notable 偵查清單
+
+如果附近看得到，可以搜尋這些名字。看不到或路線太貴就跳過。
+
+### Primal Instinct
+
+```text
+Primal Instinct
+```
+
+### Stalk and Leap
+
+```text
+Stalk and Leap
+```
+
+### Splinters
+
+```text
+Splinters
+```
+
+### Cooked
+
+```text
+Cooked
+```
+
+### Perfectly Placed Knife
+
+```text
+Perfectly Placed Knife
+```
+
+### Focused Thrust
+
+```text
+Focused Thrust
+```
+
+### Versatile Arms
+
+```text
+Versatile Arms
+```
+
+一個 leveling notable 至少要通過兩個檢查才拿：
+
+1. 靠近自然 Huntress 路線
+2. 強化目前真的在殺怪的技能
+3. 幫助生存、移動或 boss uptime
+4. 不會把天賦樹拉離後面的 companion 支援
+
+## 下一段遊玩後要回報什麼
+
+回報：
+
+- 目前等級
+- 新出現的 skill / support gem
 - 有沒有 companion / summon / spirit 選項
 - 第一次死亡或差點死，是怎麼發生的
 - `Parry` 是好用還是麻煩
 - `Whirling Slash` 會不會讓站位變危險
-- 打 boss 傷害夠不夠
+- boss 傷害是否太慢
 - 這個 build 還好不好玩
 
-## 目前建議
+## 決策紀錄
 
-現在先這樣玩：
+已經做過的重要決策：
 
-```text
-用安全 spear Huntress 升級。
-等 companion identity 出來再轉。
-不要把 Witch 召喚直覺硬套到 Huntress。
-把 Spirit Walker summon 當目的地，不是 level 2 起手式。
-```
-
-一句話：
-
-```text
-前 20 級：長矛安全外殼先走，夥伴轉型第二，等 Spirit Walker 真的給工具後再全力召喚。
-```
-
+- `Twister level 3` 不是錯誤。
+- `Rapid Attacks I` 應該放在 `Whirling Slash`。
+- `Explosive Spear` 是正確的早期單體補強。
+- `Elemental Armament I` 和 `Heightened Accuracy I` 目前放在 `Explosive Spear`。
+- `Magnified Area I` 目前放在 `Twister`。
+- 多餘 support gem 如果沒有明確用途，先存起來。
