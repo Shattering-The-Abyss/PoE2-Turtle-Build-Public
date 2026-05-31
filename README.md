@@ -37,6 +37,12 @@
 
 - [Martial Artist 轉召死彗星修車報告](showcases/martial-artist-to-comet-minion-conversion.zh-TW.md)
 
+- [Spirit Walker Companion Repair: Meongy](showcases/meongy-spirit-walker-companion-repair.en.md)
+
+- [Spirit Walker 伙伴召唤修车报告：Meongy](showcases/meongy-spirit-walker-companion-repair.zh-CN.md)
+
+- [Spirit Walker 夥伴召喚修車報告：Meongy](showcases/meongy-spirit-walker-companion-repair.zh-TW.md)
+
 ## Posture
 
 這不是最終 meta 答案，也不是精算版 build。
