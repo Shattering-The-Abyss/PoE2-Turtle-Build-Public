@@ -1,0 +1,101 @@
+# Meongy Spirit Walker Level 65 Repair Filter
+# Date: 2026-05-31
+# Character: Huntress / Spirit Walker / Companion
+#
+# Purpose:
+# - Highlight the exact slots called out by the repair report.
+# - Boots first: movement speed, life, lightning/cold/fire resistance candidates.
+# - Gloves second: life and two-resistance candidates.
+# - Rings third: life plus lightning/cold/fire resistance candidates.
+# - Shield later: life, block, resistances, possible Spirit value.
+#
+# Important boundary:
+# An in-game loot filter cannot inspect unidentified affixes like "+60 life"
+# or "+25 lightning resistance". This filter highlights the item classes and
+# rarities worth identifying for Meongy's current repair plan.
+
+# Critical currency and gem progression
+Show
+    Class "Currency"
+    SetTextColor 255 255 255
+    SetBorderColor 255 220 80
+    SetBackgroundColor 40 32 10 220
+    SetFontSize 45
+    PlayAlertSound 2 300
+    MinimapIcon 0 Yellow Star
+
+Show
+    BaseType "Uncut Skill Gem" "Uncut Support Gem" "Uncut Spirit Gem"
+    SetTextColor 120 220 255
+    SetBorderColor 80 180 255
+    SetBackgroundColor 10 28 42 220
+    SetFontSize 45
+    PlayAlertSound 3 300
+    MinimapIcon 0 Blue Star
+
+# Priority 1: boots for movement speed + life + lightning/cold/fire resists
+Show
+    Class "Boots"
+    Rarity >= Rare
+    SetTextColor 255 255 255
+    SetBorderColor 80 255 120
+    SetBackgroundColor 5 45 20 230
+    SetFontSize 45
+    PlayAlertSound 5 300
+    MinimapIcon 0 Green Triangle
+
+# Priority 2: gloves for life + two useful resistances
+Show
+    Class "Gloves"
+    Rarity >= Rare
+    SetTextColor 255 255 255
+    SetBorderColor 80 220 255
+    SetBackgroundColor 5 28 45 220
+    SetFontSize 43
+    PlayAlertSound 5 220
+    MinimapIcon 1 Blue Triangle
+
+# Priority 3: rings for life + lightning/cold resistance cleanup
+Show
+    Class "Rings"
+    Rarity >= Rare
+    SetTextColor 255 255 255
+    SetBorderColor 255 160 80
+    SetBackgroundColor 48 24 5 225
+    SetFontSize 45
+    PlayAlertSound 4 300
+    MinimapIcon 0 Orange Circle
+
+# Useful but lower priority: shields, belts, body armour, helmets, amulets
+Show
+    Class "Shields" "Belts" "Body Armours" "Helmets" "Amulets"
+    Rarity >= Rare
+    SetTextColor 235 235 235
+    SetBorderColor 180 180 255
+    SetBackgroundColor 22 22 45 190
+    SetFontSize 40
+    MinimapIcon 2 Blue Square
+
+# Jewels and charms can solve defensive holes or resource pressure
+Show
+    Class "Jewels" "Charms"
+    SetTextColor 220 190 255
+    SetBorderColor 190 120 255
+    SetBackgroundColor 35 15 48 220
+    SetFontSize 42
+    PlayAlertSound 6 220
+    MinimapIcon 1 Purple Diamond
+
+# Rare items not in priority slots remain visible, but quieter
+Show
+    Rarity >= Rare
+    SetTextColor 220 220 220
+    SetBorderColor 140 140 140
+    SetBackgroundColor 18 18 18 150
+    SetFontSize 36
+
+# Keep everything else visible but muted while the filter is being validated
+Show
+    SetTextColor 150 150 150
+    SetBorderColor 55 55 55
+    SetFontSize 30

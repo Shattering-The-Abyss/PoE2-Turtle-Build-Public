@@ -169,6 +169,28 @@ Viper Hoof, Covered Sabatons
 
 ## 修車計畫
 
+## 個人化 Loot Filter
+
+下載：
+
+- [Meongy Spirit Walker Level 65 Loot Filter](../loot-filters/meongy-spirit-walker-level-65.filter)
+- 合併後的 raw 下載連結：<https://raw.githubusercontent.com/Shattering-The-Abyss/PoE2-Turtle-Build-Public/main/loot-filters/meongy-spirit-walker-level-65.filter>
+
+Filter 目的：
+
+```text
+重點高亮 rare 鞋子、手套、戒指、盾牌，對應目前修車優先級。
+保留通貨、未切寶石、珠寶、護符等重要掉落。
+暫時不把其他東西全部隱藏；這是安全個人化修車 filter，不是嚴格 endgame filter。
+```
+
+重要限制：
+
+```text
+遊戲內 loot filter 不能檢查未鑑定詞綴，例如 +60 life 或 +25 lightning resistance。
+它能做的是把目前最值得撿起來鑑定的物品類型高亮出來。
+```
+
 ### 第一優先級：換鞋
 
 找：
