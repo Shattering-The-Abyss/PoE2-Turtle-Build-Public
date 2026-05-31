@@ -275,6 +275,142 @@ Lightning fixed first
 Chaos at least non-negative
 ```
 
+## Minimum Trade Filters
+
+These are not luxury filters. They are the minimum shopping filters for making the conversion function without immediately collapsing. Keep the max price low at first, then widen only if no results appear.
+
+### Wand
+
+Search category:
+
+```text
+One Hand Weapon -> Wand
+Required level <= 81
+```
+
+Filter priority:
+
+```text
+Spell Damage
+Cast Speed
+Mana
++level to spell skills or cold spell skills, if affordable
+Spell Critical Chance / Critical Damage Bonus, only if the price stays reasonable
+```
+
+Do not pay for attack damage, physical weapon damage, or quarterstaff-style stats.
+
+### Shield
+
+Search category:
+
+```text
+Off Hand -> Shield
+Required level <= 81
+```
+
+Minimum filter:
+
+```text
++70 maximum Life or better
+At least two elemental resistance rolls
+Lightning Resistance preferred
+```
+
+Good extras:
+
+```text
+Block
+Energy Shield or Armour/Energy Shield base
+Spirit, if it appears cheaply
+```
+
+### Amulet
+
+Minimum filter:
+
+```text
++Spirit
++Life
+One useful resistance or all attributes
+```
+
+Good extras:
+
+```text
+Spell damage
+Minion or spell relevant levels
+Mana, if using Archmage
+```
+
+Avoid paying for `+melee skill levels`.
+
+### Body Armour
+
+Minimum filter:
+
+```text
++100 maximum Life or better
+Two useful resistances
+```
+
+Good extras:
+
+```text
+Spirit
+Energy Shield base
+Mana
+Attributes
+```
+
+### Boots
+
+Minimum filter:
+
+```text
+20%+ Movement Speed
++60 maximum Life or better
+Lightning Resistance
+One second resistance
+```
+
+### Gloves
+
+Minimum filter:
+
+```text
++60 maximum Life or better
+Two useful resistances
+Attributes if needed
+```
+
+### Rings And Belt
+
+Minimum filter:
+
+```text
++Life
++Lightning Resistance
++Cold or Fire Resistance
+Attributes if needed
+```
+
+The belt should preferably keep at least one charm slot. Do not overpay for rarity or attack damage during the conversion.
+
+### Buying Order
+
+```text
+1. Shield
+2. Wand
+3. Amulet with Spirit
+4. Boots
+5. Body armour
+6. Gloves
+7. Rings / belt cleanup
+```
+
+The first purchase goal is not damage. The first purchase goal is making Spirit, resistances, and life mathematically work.
+
 ## Preparation Checklist
 
 Before spending the gold:
