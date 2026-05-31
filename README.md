@@ -43,7 +43,11 @@
 
 - [Spirit Walker 伙伴召唤修车报告：Meongy](showcases/meongy-spirit-walker-companion-repair.zh-CN.md)
 
+- [Spirit Walker 伙伴召唤后续报告：Meongy 1c2c4](showcases/meongy-spirit-walker-followup-1c2c4.zh-CN.md)
+
 - [Spirit Walker 夥伴召喚修車報告：Meongy](showcases/meongy-spirit-walker-companion-repair.zh-TW.md)
+
+- [Spirit Walker 夥伴召喚後續報告：Meongy 1c2c4](showcases/meongy-spirit-walker-followup-1c2c4.zh-TW.md)
 
 ## Posture
 
