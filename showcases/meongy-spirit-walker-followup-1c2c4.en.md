@@ -378,7 +378,7 @@ The next upgrades should make the character safer and smoother first.
 
 ## Updated Personalized Filter Note
 
-The current personalized filter is still useful:
+The current personalized filter has been rebuilt on top of NeverSink's 1-REGULAR PoE2 filter:
 
 - [Meongy Spirit Walker Level 65 Loot Filter](../loot-filters/meongy-spirit-walker-level-65.filter)
 
@@ -392,7 +392,9 @@ Charms
 Currency
 ```
 
-Boots and gloves can remain highlighted, but they are no longer urgent because the current boots and gloves are good.
+The Meongy overlay is placed before the NeverSink body, so these repair slots get extra attention while the normal NeverSink currency, gem, base, and economy rules remain intact.
+
+Boots and gloves remain lightly highlighted, but they are no longer urgent because the current boots and gloves are good.
 
 ## Final Verdict
 
