@@ -275,6 +275,142 @@ Spirit 仍然是必须解决的预算，但它应该作为整套 build 的资源
 混沌抗至少非负
 ```
 
+## 最低市场淘宝 Filter
+
+这些不是毕业装 filter，而是最低转换需求：先让机制跑起来，而且不要一转就暴毙。先把最高价格压低，搜不到再慢慢放宽。
+
+### 法杖
+
+搜索类别：
+
+```text
+One Hand Weapon -> Wand
+Required level <= 81
+```
+
+优先词缀：
+
+```text
+Spell Damage
+Cast Speed
+Mana
++level to spell skills 或 cold spell skills，如果便宜
+Spell Critical Chance / Critical Damage Bonus，价格合理再考虑
+```
+
+不要为攻击伤害、物理武器伤害、quarterstaff 词缀付钱。
+
+### 盾牌
+
+搜索类别：
+
+```text
+Off Hand -> Shield
+Required level <= 81
+```
+
+最低 filter：
+
+```text
++70 maximum Life 或更高
+至少两个元素抗性词缀
+优先 Lightning Resistance
+```
+
+加分项：
+
+```text
+Block
+Energy Shield 或 Armour/Energy Shield 底子
+如果便宜，带 Spirit 更好
+```
+
+### 项链
+
+最低 filter：
+
+```text
++Spirit
++Life
+一个有用抗性或 all attributes
+```
+
+加分项：
+
+```text
+Spell damage
+召唤 / 法术相关技能等级
+如果走大法师，Mana 有价值
+```
+
+不要为 `+melee skill levels` 付钱。
+
+### 胸甲
+
+最低 filter：
+
+```text
++100 maximum Life 或更高
+两个有用抗性
+```
+
+加分项：
+
+```text
+Spirit
+Energy Shield 底子
+Mana
+Attributes
+```
+
+### 鞋子
+
+最低 filter：
+
+```text
+20%+ Movement Speed
++60 maximum Life 或更高
+Lightning Resistance
+一个第二抗性
+```
+
+### 手套
+
+最低 filter：
+
+```text
++60 maximum Life 或更高
+两个有用抗性
+缺属性就带 Attributes
+```
+
+### 戒指和腰带
+
+最低 filter：
+
+```text
++Life
++Lightning Resistance
++Cold or Fire Resistance
+缺属性就带 Attributes
+```
+
+腰带最好保留至少一个 charm slot。转换阶段不要为了 rarity 或 attack damage 付溢价。
+
+### 买入顺序
+
+```text
+1. 盾牌
+2. 法杖
+3. 带 Spirit 的项链
+4. 鞋子
+5. 胸甲
+6. 手套
+7. 戒指 / 腰带补洞
+```
+
+第一目标不是伤害。第一目标是让 Spirit、抗性、生命这三个数学先成立。
+
 ## 转换前准备清单
 
 花金币前先准备：
