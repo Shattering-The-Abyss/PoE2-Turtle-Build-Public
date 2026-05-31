@@ -37,6 +37,12 @@
 
 - [Martial Artist 轉召死彗星修車報告](showcases/martial-artist-to-comet-minion-conversion.zh-TW.md)
 
+- [WitchHehes Blood Mage Recovery Analysis](showcases/witchhehes-blood-mage-recovery-analysis.en.md)
+
+- [WitchHehes 血法回血机制分析](showcases/witchhehes-blood-mage-recovery-analysis.zh-CN.md)
+
+- [WitchHehes 血法回血機制分析](showcases/witchhehes-blood-mage-recovery-analysis.zh-TW.md)
+
 - [Spirit Walker Companion Repair: Meongy](showcases/meongy-spirit-walker-companion-repair.en.md)
 
 - [Spirit Walker Companion Follow-Up: Meongy 1c2c4](showcases/meongy-spirit-walker-followup-1c2c4.en.md)
