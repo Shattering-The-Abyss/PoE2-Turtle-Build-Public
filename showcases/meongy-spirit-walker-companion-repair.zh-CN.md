@@ -179,9 +179,9 @@ Viper Hoof, Covered Sabatons
 Filter 目的：
 
 ```text
-重点高亮 rare 鞋子、手套、戒指、盾牌，对应当前修车优先级。
-保留通货、未切宝石、珠宝、护符等重要掉落。
-暂时不把其他东西全部隐藏；这是安全个性化修车 filter，不是严格 endgame filter。
+使用 NeverSink 的 1-REGULAR PoE2 filter 作为底。
+在 NeverSink 规则前面加一小段 Meongy 专属 overlay。
+高亮当前值得捡起来鉴定的修车槽位，同时保留 NeverSink 原本的通货、宝石、底子和经济规则。
 ```
 
 重要限制：

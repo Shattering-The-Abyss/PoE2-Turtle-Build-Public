@@ -378,7 +378,7 @@ minion/companion jewels
 
 ## 更新后的个性化 Filter 说明
 
-当前个性化 filter 仍然有用：
+当前个性化 filter 已经改成以 NeverSink 的 1-REGULAR PoE2 filter 为底：
 
 - [Meongy Spirit Walker Level 65 Loot Filter](../loot-filters/meongy-spirit-walker-level-65.filter)
 
@@ -392,7 +392,9 @@ Charms
 Currency
 ```
 
-鞋子和手套可以继续高亮，但已经不再紧急，因为当前鞋子和手套都很好。
+Meongy 专属 overlay 放在 NeverSink 主体之前，所以这些修车槽位会额外醒目，同时保留 NeverSink 原本的通货、宝石、底子和经济规则。
+
+鞋子和手套仍然轻度高亮，但已经不再紧急，因为当前鞋子和手套都很好。
 
 ## 最终结论
 

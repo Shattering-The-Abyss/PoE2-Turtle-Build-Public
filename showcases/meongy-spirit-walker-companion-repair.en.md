@@ -179,9 +179,9 @@ Download:
 Filter purpose:
 
 ```text
-Highlight rare boots, gloves, rings, and shields for the current repair plan.
-Keep currency, uncut gems, jewels, and charms visible.
-Do not hide everything else yet; this is a safe personalized repair filter, not a strict endgame loot filter.
+Use NeverSink's 1-REGULAR PoE2 filter as the base.
+Add a small Meongy-specific overlay before the NeverSink rules.
+Highlight the repair slots worth identifying while preserving NeverSink's normal currency, gem, base, and economy handling.
 ```
 
 Important limitation:
