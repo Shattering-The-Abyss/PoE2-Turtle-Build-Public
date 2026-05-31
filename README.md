@@ -31,6 +31,12 @@
 
 - [Hollow Palm Monk 修车 Demo](showcases/mei-monk-hollow-palm-repair-demo.zh-CN.md)
 
+- [Martial Artist To Comet Minion Conversion Review](showcases/martial-artist-to-comet-minion-conversion.en.md)
+
+- [Martial Artist 转召死彗星修车报告](showcases/martial-artist-to-comet-minion-conversion.zh-CN.md)
+
+- [Martial Artist 轉召死彗星修車報告](showcases/martial-artist-to-comet-minion-conversion.zh-TW.md)
+
 ## Posture
 
 這不是最終 meta 答案，也不是精算版 build。
