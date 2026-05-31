@@ -27,6 +27,10 @@
 
 - [Blood Mage 修車 Demo](showcases/pig-blood-mage-repair-demo.zh-TW.md)
 
+- [Hollow Palm Monk Repair Demo](showcases/mei-monk-hollow-palm-repair-demo.en.md)
+
+- [Hollow Palm Monk 修车 Demo](showcases/mei-monk-hollow-palm-repair-demo.zh-CN.md)
+
 ## Posture
 
 這不是最終 meta 答案，也不是精算版 build。
