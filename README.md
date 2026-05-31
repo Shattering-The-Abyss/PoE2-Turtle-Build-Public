@@ -43,6 +43,12 @@
 
 - [WitchHehes 血法回血機制分析](showcases/witchhehes-blood-mage-recovery-analysis.zh-TW.md)
 
+- [WitchHehes Blood Mage Cost Sustain Follow-Up](showcases/witchhehes-blood-mage-cost-sustain-followup.en.md)
+
+- [WitchHehes 血法技能消耗维持追踪](showcases/witchhehes-blood-mage-cost-sustain-followup.zh-CN.md)
+
+- [WitchHehes 血法技能消耗維持追蹤](showcases/witchhehes-blood-mage-cost-sustain-followup.zh-TW.md)
+
 - [Spirit Walker Companion Repair: Meongy](showcases/meongy-spirit-walker-companion-repair.en.md)
 
 - [Spirit Walker Companion Follow-Up: Meongy 1c2c4](showcases/meongy-spirit-walker-followup-1c2c4.en.md)
