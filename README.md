@@ -21,6 +21,12 @@
 
 - [随机 Level 70 Tactician 修车 Demo](showcases/random-level-70-tactician-repair-demo.zh-CN.md)
 
+- [Blood Mage Repair Demo](showcases/pig-blood-mage-repair-demo.en.md)
+
+- [Blood Mage 修车 Demo](showcases/pig-blood-mage-repair-demo.zh-CN.md)
+
+- [Blood Mage 修車 Demo](showcases/pig-blood-mage-repair-demo.zh-TW.md)
+
 ## Posture
 
 這不是最終 meta 答案，也不是精算版 build。
