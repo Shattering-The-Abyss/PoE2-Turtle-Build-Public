@@ -15,6 +15,12 @@
 
 - [Huntress 前 20 級路線：Spirit Walker 夥伴召喚方向](guides/huntress-spirit-walker-next-20-levels.zh-TW.md)
 
+## Showcases
+
+- [Random Level 70 Tactician Repair Demo](showcases/random-level-70-tactician-repair-demo.en.md)
+
+- [随机 Level 70 Tactician 修车 Demo](showcases/random-level-70-tactician-repair-demo.zh-CN.md)
+
 ## Posture
 
 這不是最終 meta 答案，也不是精算版 build。
