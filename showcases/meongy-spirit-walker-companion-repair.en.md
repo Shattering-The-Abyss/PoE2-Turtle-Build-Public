@@ -169,6 +169,28 @@ One ring carries a lot of fire resistance but no life. The other has all resista
 
 ## Repair Plan
 
+## Personalized Loot Filter
+
+Download:
+
+- [Meongy Spirit Walker Level 65 Loot Filter](../loot-filters/meongy-spirit-walker-level-65.filter)
+- Raw download link after merge: <https://raw.githubusercontent.com/Shattering-The-Abyss/PoE2-Turtle-Build-Public/main/loot-filters/meongy-spirit-walker-level-65.filter>
+
+Filter purpose:
+
+```text
+Highlight rare boots, gloves, rings, and shields for the current repair plan.
+Keep currency, uncut gems, jewels, and charms visible.
+Do not hide everything else yet; this is a safe personalized repair filter, not a strict endgame loot filter.
+```
+
+Important limitation:
+
+```text
+The in-game filter cannot inspect unidentified affixes like +60 life or +25 lightning resistance.
+It highlights the item classes worth identifying based on the repair priorities below.
+```
+
 ### Priority 1: Replace Boots
 
 Look for:
