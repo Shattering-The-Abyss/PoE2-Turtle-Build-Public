@@ -197,14 +197,34 @@ This has useful life and attributes, but the attack damage and mana leech lines 
 
 The current `Sinister Quarterstaff` is an attack weapon. It does not belong in the target shell.
 
-The conversion wants something closer to:
+Based on the referenced route, this should not be framed as "buy a Spirit weapon" or "default to sceptre." The intended weapon identity is better treated as:
 
 ```text
-High Spirit source
-Minion skill levels
-Spell skill levels or spell damage
-Mana / attributes if using Archmage
+Main hand: wand
+Off hand: shield
 ```
+
+The wand should carry the spell side of the build:
+
+```text
+Spell damage
+Spell level or cold spell level, if available
+Cast speed
+Critical spell stats, if the final tree supports crit
+Mana, if using Archmage
+```
+
+The shield should carry the survival side:
+
+```text
+Life
+Resistances
+Block / defensive value
+Energy Shield or Armour/Energy Shield
+Spirit, only if the item and market make it practical
+```
+
+Spirit is still a required plan, but it should be solved as a full build budget through tree, amulet, body armour, shield, and other gear. It should not be assumed that the weapon slot must be a Spirit weapon.
 
 ### Amulet
 
@@ -264,7 +284,7 @@ Before spending the gold:
 2. Prepare at least 300k-400k gold.
 3. Acquire the required skill gems.
 4. Acquire the required support gems.
-5. Build a 120 Spirit plan.
+5. Build a 120 Spirit plan without assuming the weapon must be a Spirit weapon.
 6. Fill body armour, gloves, and boots.
 7. Fix lightning resistance.
 8. Simulate the new tree before committing.
@@ -279,7 +299,7 @@ If the player wants to experiment and keep the Monk identity:
 Swap toward Invoker if possible.
 Do not keep Martial Artist as the final shell.
 Prepare 400k+ gold.
-Buy the Spirit and resistance gear first.
+Buy the wand, defensive shield, Spirit plan pieces, and resistance gear first.
 Only respec after the skill package is ready.
 ```
 
