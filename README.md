@@ -49,6 +49,10 @@
 
 - [Spirit Walker 夥伴召喚後續報告：Meongy 1c2c4](showcases/meongy-spirit-walker-followup-1c2c4.zh-TW.md)
 
+## Product Insights
+
+- [Meongy Feedback: Concise PoE2 Toon Repair Coach](product-insights/meongy-feedback-poe2-coach-2026-05-31.md)
+
 ## Posture
 
 這不是最終 meta 答案，也不是精算版 build。
