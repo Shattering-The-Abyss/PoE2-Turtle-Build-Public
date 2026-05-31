@@ -197,14 +197,34 @@ Golem Grasp
 
 目前 `Sinister Quarterstaff` 是攻擊武器，不屬於目標體系。
 
-轉換後更想要：
+根據參考影片路線，這裡不應該說成「買 Spirit 武器」，也不應該預設換成 sceptre。更準確的目標武器身份是：
 
 ```text
-高 Spirit 來源
-召喚技能等級
-法術技能等級或法術傷害
-如果走大法師，要魔力 / 屬性
+主手：法杖
+副手：盾牌
 ```
+
+法杖負責法術輸出側：
+
+```text
+法術傷害
+法術等級 / 冰法術等級，如果有
+施法速度
+如果最終走暴擊，找法術暴擊相關
+如果走大法師，要魔力
+```
+
+盾牌負責生存側：
+
+```text
+生命
+抗性
+格擋 / 防禦價值
+能量護盾或護甲/能盾底子
+如果市場和底子允許，可以順帶帶 Spirit
+```
+
+Spirit 仍然是必須解決的預算，但它應該作為整套 build 的資源方案來解決：天賦、項鍊、胸甲、盾牌和其他裝備一起湊。不能預設「武器位必須是 Spirit 武器」。
 
 ### 項鍊
 
@@ -255,6 +275,142 @@ Golem Grasp
 混沌抗至少非負
 ```
 
+## 最低市場淘裝 Filter
+
+這些不是畢業裝 filter，而是最低轉換需求：先讓機制跑起來，而且不要一轉就暴斃。先把最高價格壓低，搜不到再慢慢放寬。
+
+### 法杖
+
+搜尋類別：
+
+```text
+One Hand Weapon -> Wand
+Required level <= 81
+```
+
+優先詞綴：
+
+```text
+Spell Damage
+Cast Speed
+Mana
++level to spell skills 或 cold spell skills，如果便宜
+Spell Critical Chance / Critical Damage Bonus，價格合理再考慮
+```
+
+不要為攻擊傷害、物理武器傷害、quarterstaff 詞綴付錢。
+
+### 盾牌
+
+搜尋類別：
+
+```text
+Off Hand -> Shield
+Required level <= 81
+```
+
+最低 filter：
+
+```text
++70 maximum Life 或更高
+至少兩個元素抗性詞綴
+優先 Lightning Resistance
+```
+
+加分項：
+
+```text
+Block
+Energy Shield 或 Armour/Energy Shield 底子
+如果便宜，帶 Spirit 更好
+```
+
+### 項鍊
+
+最低 filter：
+
+```text
++Spirit
++Life
+一個有用抗性或 all attributes
+```
+
+加分項：
+
+```text
+Spell damage
+召喚 / 法術相關技能等級
+如果走大法師，Mana 有價值
+```
+
+不要為 `+melee skill levels` 付錢。
+
+### 胸甲
+
+最低 filter：
+
+```text
++100 maximum Life 或更高
+兩個有用抗性
+```
+
+加分項：
+
+```text
+Spirit
+Energy Shield 底子
+Mana
+Attributes
+```
+
+### 鞋子
+
+最低 filter：
+
+```text
+20%+ Movement Speed
++60 maximum Life 或更高
+Lightning Resistance
+一個第二抗性
+```
+
+### 手套
+
+最低 filter：
+
+```text
++60 maximum Life 或更高
+兩個有用抗性
+缺屬性就帶 Attributes
+```
+
+### 戒指和腰帶
+
+最低 filter：
+
+```text
++Life
++Lightning Resistance
++Cold or Fire Resistance
+缺屬性就帶 Attributes
+```
+
+腰帶最好保留至少一個 charm slot。轉換階段不要為了 rarity 或 attack damage 付溢價。
+
+### 買入順序
+
+```text
+1. 盾牌
+2. 法杖
+3. 帶 Spirit 的項鍊
+4. 鞋子
+5. 胸甲
+6. 手套
+7. 戒指 / 腰帶補洞
+```
+
+第一目標不是傷害。第一目標是讓 Spirit、抗性、生命這三個數學先成立。
+
 ## 轉換前準備清單
 
 花金幣前先準備：
@@ -264,7 +420,7 @@ Golem Grasp
 2. 準備至少 300k-400k gold。
 3. 準備目標技能寶石。
 4. 準備目標輔助寶石。
-5. 做出 120 Spirit 方案。
+5. 做出 120 Spirit 方案，但不要預設武器必須是 Spirit 武器。
 6. 補齊胸甲、手套、鞋子。
 7. 先修電抗。
 8. 在 PoB 裡模擬新樹，確認 Spirit 不是負數。
@@ -279,7 +435,7 @@ Golem Grasp
 能換就往 Invoker 轉。
 不要繼續用 Martial Artist 當最終殼子。
 準備 400k+ gold。
-先買 Spirit 和抗性裝備。
+先買法杖、防禦盾牌、Spirit 方案組件和抗性裝備。
 技能包湊齊後再洗樹。
 ```
 
