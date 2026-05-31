@@ -39,6 +39,8 @@
 
 - [Spirit Walker Companion Repair: Meongy](showcases/meongy-spirit-walker-companion-repair.en.md)
 
+- [Spirit Walker Companion Follow-Up: Meongy 1c2c4](showcases/meongy-spirit-walker-followup-1c2c4.en.md)
+
 - [Spirit Walker 伙伴召唤修车报告：Meongy](showcases/meongy-spirit-walker-companion-repair.zh-CN.md)
 
 - [Spirit Walker 夥伴召喚修車報告：Meongy](showcases/meongy-spirit-walker-companion-repair.zh-TW.md)
