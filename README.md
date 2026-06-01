@@ -20,12 +20,17 @@
 
 ### Spirit Walker / Companion
 
+#### Meongy
+
 - [English: Meongy Companion Repair](showcases/meongy-spirit-walker-companion-repair.en.md)
 - [English: Meongy Follow-Up 1c2c4](showcases/meongy-spirit-walker-followup-1c2c4.en.md)
+- [English: Meongy Wukong Damage Review 1c6e2](showcases/meongy-wukong-damage-review-1c6e2.en.md)
 - [简中：Meongy 伙伴召唤修车报告](showcases/meongy-spirit-walker-companion-repair.zh-CN.md)
 - [简中：Meongy 伙伴召唤后续报告 1c2c4](showcases/meongy-spirit-walker-followup-1c2c4.zh-CN.md)
+- [简中：Meongy 悟空伤害修车报告 1c6e2](showcases/meongy-wukong-damage-review-1c6e2.zh-CN.md)
 - [繁中：Meongy 夥伴召喚修車報告](showcases/meongy-spirit-walker-companion-repair.zh-TW.md)
 - [繁中：Meongy 夥伴召喚後續報告 1c2c4](showcases/meongy-spirit-walker-followup-1c2c4.zh-TW.md)
+- [繁中：Meongy 悟空傷害修車報告 1c6e2](showcases/meongy-wukong-damage-review-1c6e2.zh-TW.md)
 
 ### Blood Mage
 
