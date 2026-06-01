@@ -200,11 +200,59 @@ Havoc Keep, Visored Helm
 
 这些装备单看都有理由，但拼在一起就把角色的生命和抗性掏空了。
 
+## 1 Divine 修车方案
+
+后续反馈：角色现在打不动 T1 map boss。
+
+这会改变优先级。原本只看面板时，最大洞是生命和抗性；但如果已经明确卡在 T1 boss 输出，那就不能把 1 divine 全拿去补防御。正确做法是：**武器升级进入第一优先级，但不要一颗 divine 梭哈一件武器。**
+
+推荐预算拆法：
+
+```text
+40%-50%：买一把更强 Quarterstaff
+25%-30%：买一枚攻击 + 生命 + 抗性的戒指
+20%-25%：买生命 + 电抗的腰带
+```
+
+目标不是一次买毕业装，而是让角色同时解决两个问题：
+
+```text
+Boss 不再刮痧
+被碰到不再直接蒸发
+```
+
+如果市场价格很贵，优先买两件：
+
+```text
+1. Quarterstaff
+2. 戒指
+```
+
+如果买完武器后还剩预算，再买腰带。腰带是防御修车，不是输出修车。
+
 ## 修车优先级
 
-### 第一优先级：换戒指
+### 第一优先级：换武器
 
-先换掉 `Cracklecreep Ruby Ring`。
+如果 T1 map boss 已经打不动，先换武器。
+
+当前武器不是废品，但它已经不一定够支撑 T1 boss。Storm Wave 这种攻击技能非常吃武器底子、攻击速度、附加伤害和本地伤害词缀。
+
+目标 Quarterstaff：
+
+```text
+Quarterstaff
+需求等级 <= 63
+优先看：高物理伤害 / 高元素点伤 / 攻击速度
+加分：暴击率 / 暴击伤害 / 附加闪电或火焰伤害
+预算：不要超过 0.5 divine，除非明显碾压现有武器
+```
+
+人话：先找朴素高 DPS，不要买机制看起来很聪明但打 boss 还是刮的东西。
+
+### 第二优先级：换戒指
+
+先换掉 `Cracklecreep Ruby Ring`，最好换成攻防一体戒指。
 
 它现在给的是火伤和点燃扩散，但没有生命、没有冰抗、没有电抗。对于这台车来说，它的机会成本太高。
 
@@ -214,12 +262,12 @@ Havoc Keep, Visored Helm
 +50 maximum Life
 +30% Lightning Resistance
 +20% Cold Resistance
-可选：Fire Resistance / Mana / Attributes / Elemental Damage with Attacks
+可选：Elemental Damage with Attacks / Added Damage to Attacks / Mana / Attributes
 ```
 
 如果换完以后冰抗还是很低，再考虑把 `Blistering Bond` 也换掉。`Blistering Bond` 至少有生命，但它倒扣冰抗，所以不是长期舒适装备。
 
-### 第二优先级：换腰带
+### 第三优先级：换腰带
 
 `Birthright Buckle` 现在不解决核心问题。腰带通常是便宜补生命和抗性的好位置。
 
@@ -234,7 +282,7 @@ Havoc Keep, Visored Helm
 
 如果预算有限，腰带和戒指通常是最容易把电抗从负数救回来的地方。
 
-### 第三优先级：换手套
+### 第四优先级：换手套
 
 `Lochtonial Caress` 有攻速和充能价值，但没有生命抗性。如果这个 build 不是强依赖它产球，就应该换。
 
@@ -249,7 +297,7 @@ Havoc Keep, Visored Helm
 
 如果本人非常喜欢 Lochtonial 的手感，可以晚一点换，但要知道这就是在用防御换功能。
 
-### 第四优先级：换胸甲
+### 第五优先级：换胸甲
 
 当前胸甲没有生命和抗性。Level 63 的胸甲槽应该承担更大防御责任。
 
@@ -264,7 +312,7 @@ Armour / Evasion / Energy Shield 随底子自然补
 
 这一步会明显提升 EHP。
 
-### 第五优先级：换头盔
+### 第六优先级：换头盔
 
 当前头盔不是完全没用，但没有生命。等戒指、腰带、手套处理后，头盔也要补。
 
@@ -279,13 +327,13 @@ Armour / Evasion / Energy Shield 随底子自然补
 
 ## 不建议现在做的事
 
-### 不建议先换武器
+### 不建议把 1 divine 全梭哈武器
 
-武器不是当前最大问题。换武器可能让伤害变好看，但抗性和生命不修，还是会死。
+武器现在需要换，但不能只换武器。只换武器会让 boss 掉血快一点，但角色仍然会被负电抗和低生命惩罚。
 
 ### 不建议先抠输出支援
 
-`Storm Wave` 的主支援目前能用。现在改几个支援宝石，解决不了 `-46%` 电抗。
+`Storm Wave` 的主支援目前能用。现在改几个支援宝石，解决不了武器伤害不足，也解决不了 `-46%` 电抗。
 
 ### 不建议继续堆有趣 unique
 
@@ -295,7 +343,39 @@ Armour / Evasion / Energy Shield 随底子自然补
 
 如果去市场淘宝，先按下面这种思路搜。
 
+### Quarterstaff
+
+直接搜索：
+
+<https://www.pathofexile.com/trade2/search/poe2/Runes%20of%20Aldur/2K5k52mDuk>
+
+过滤器意图：
+
+```text
+Quarterstaff
+在线卖家
+未腐化
+物品等级 <= 75
+价格 <= 1 divine equivalent
+
+至少满足 2 项：
+  80%+ increased Physical Damage
+  adds lightning damage to attacks
+  adds fire damage to attacks
+  adds cold damage to attacks
+  10%+ local attack speed
+  40%+ increased critical hit chance
+```
+
+使用方式：先按价格从低到高看，不要直接买最贵的。优先挑“攻击速度 + 点伤 / 物理伤害”组合明显比现有武器强的。
+
 ### 戒指
+
+直接搜索：
+
+<https://www.pathofexile.com/trade2/search/poe2/Runes%20of%20Aldur/2K5k5qrdFk>
+
+过滤器意图：
 
 ```text
 非 unique
@@ -306,7 +386,15 @@ Armour / Evasion / Energy Shield 随底子自然补
 价格：先看 1 exalt / 2 exalt 档
 ```
 
+使用方式：优先替换 `Cracklecreep Ruby Ring`。如果戒指带攻击词缀更好，但不要为了小伤害牺牲生命和电抗。
+
 ### 腰带
+
+直接搜索：
+
+<https://www.pathofexile.com/trade2/search/poe2/Runes%20of%20Aldur/pJ4k48bvf0>
+
+过滤器意图：
 
 ```text
 非 unique
@@ -315,6 +403,8 @@ Armour / Evasion / Energy Shield 随底子自然补
 +20% Cold or Fire Resistance
 价格：先看 1 exalt / 2 exalt 档
 ```
+
+使用方式：腰带主要负责把电抗和生命拉回来。不要在腰带上追伤害。
 
 ### 手套
 
