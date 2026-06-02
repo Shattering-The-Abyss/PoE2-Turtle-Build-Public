@@ -60,6 +60,9 @@
 - [English: MewOoooooO Invoker Comet Repair](showcases/mewoooooo-invoker-comet-repair.en.md)
 - [简中：MewOoooooO Invoker 彗星触发修车报告](showcases/mewoooooo-invoker-comet-repair.zh-CN.md)
 - [繁中：MewOoooooO Invoker 彗星觸發修車報告](showcases/mewoooooo-invoker-comet-repair.zh-TW.md)
+- [English: MewOoooooO 4000 Mana Follow-Up](showcases/mewoooooo-4000-mana-followup.en.md)
+- [简中：MewOoooooO 4000 Mana 后续报告](showcases/mewoooooo-4000-mana-followup.zh-CN.md)
+- [繁中：MewOoooooO 4000 Mana 後續報告](showcases/mewoooooo-4000-mana-followup.zh-TW.md)
 
 ### Tactician
 
