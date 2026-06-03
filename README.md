@@ -18,6 +18,12 @@
 
 ## Showcases
 
+### Deadeye / Bow
+
+- [English: imnotaranger Deadeye Repair](showcases/imnotaranger-deadeye-repair.en.md)
+- [简中：imnotaranger Deadeye 修车报告](showcases/imnotaranger-deadeye-repair.zh-CN.md)
+- [繁中：imnotaranger Deadeye 修車報告](showcases/imnotaranger-deadeye-repair.zh-TW.md)
+
 ### Spirit Walker / Companion
 
 #### Meongy
