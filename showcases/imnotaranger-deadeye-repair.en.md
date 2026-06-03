@@ -20,6 +20,32 @@ Snapshot used:
 
 This report only uses the public poe.ninja snapshot. It does not include map footage, death logs, private stash state, or market budget.
 
+## Updated Boss-Damage Verdict
+
+The player report is: boss fights take about two minutes, the character has to play like Contra, and damage feels absent.
+
+That read is credible. The first version of this report correctly identified the defensive floor problem, but the boss complaint changes the priority: this is not only a resistance repair. The character also needs a damage-engine rebuild.
+
+The current boss-damage warning signs are concrete:
+
+- Main skill gems are only `L14 Q0`.
+- `Ice Shot` shows only `9375` DPS.
+- `Snipe`, which should be the aimed burst button, shows only `2799` DPS.
+- `Tornado Shot` shows only `4559` DPS and is more coverage than boss payoff here.
+- The bow is `1.20` attacks per second and has no attack speed, no critical strike scaling, and only modest flat elemental damage.
+- The rare ring, amulet, jewel, and quiver are not carrying enough boss damage.
+- `Polcirkeln` is useful for chill/shatter mapping identity, but it is not a boss-killing engine by itself.
+
+So the real diagnosis is:
+
+```text
+Mapping idea exists.
+Boss engine does not.
+Defensive floor is also too low, so every long boss fight becomes a bullet-hell fight.
+```
+
+If the fight lasts two minutes, every defensive weakness gets amplified. The character is not merely dying because it is fragile; it is fragile for too long.
+
 ## Short Verdict
 
 This character is not broken because the skill idea is wrong. The bow cold projectile direction is understandable:
@@ -42,7 +68,7 @@ but the defensive floor is still campaign/early-map level.
 
 At level 68, fire and cold resistance are not capped, chaos resistance is zero, and both chaos and physical max-hit are under `2000`. That means ordinary mapping can feel random: some packs explode, but bad rares, ground effects, chaos hits, or physical spikes can delete the character before the bow engine gets to play.
 
-The first repair is not a luxury bow. The first repair is capping resistances while keeping enough life and damage to continue progressing.
+The first repair is not a luxury bow, but the first real rebuild must include damage. Capping resistances alone will make the two-minute boss fight safer, not shorter.
 
 ## What Is Working
 
@@ -57,7 +83,19 @@ The bow is good enough for the current stage:
 - mana leech from physical damage
 - extra dexterity
 
-This is not an emergency slot. A better bow will help later, but buying the bow first would leave the same death pattern in place.
+This is not a useless bow, but it is probably no longer enough if the complaint is boss time.
+
+The problem is not one missing mod. It is the whole boss profile:
+
+```text
+1.20 attacks per second
+modest flat elemental damage
+no attack speed
+no critical strike scaling
+no high end-game elemental DPS
+```
+
+`+1 projectile skills` is nice, but it cannot carry boss damage alone.
 
 ### Body Armour
 
@@ -94,6 +132,32 @@ The skill package is coherent enough:
 This is a playable identity. The fix is to make the character survive long enough for it to feel consistent.
 
 ## Main Problems
+
+### 0. There is no real boss-kill setup yet
+
+The current skill sheet is split across several attacks:
+
+```text
+Ice Shot L14 Q0      -> clear
+Tornado Shot L14 Q0  -> coverage
+Snipe L14 Q0         -> intended burst, but low displayed DPS
+Barrage L14 Q0       -> utility/cooldown package, not a visible damage core
+```
+
+For mapping, this can feel okay. For bosses, the build needs one clear answer:
+
+```text
+What button actually kills the boss?
+```
+
+Right now the answer is not strong enough. `Snipe` is not carrying, `Tornado Shot` is not built as the boss payoff, and `Ice Shot` is still in a clear-oriented setup with `Fork`.
+
+Boss repair target:
+
+```text
+Pick one single-target plan,
+then make bow, quiver, supports, jewels, and jewelry serve that plan.
+```
 
 ### 1. Fire and cold resistance are undercapped
 
@@ -202,7 +266,18 @@ This is a cheap, low-risk improvement.
 
 ## Repair Priority
 
-### Phase 1: Make mapping stable
+### Phase 0: Stop the boss from being a two-minute fight
+
+This is the new priority after the player feedback.
+
+Do these before buying luxury defensive pieces:
+
+1. Level the main skill gems. `L14 Q0` is too low for a character trying to push bosses.
+2. Replace the current jewel. Fire damage plus banner glory is basically not part of this build.
+3. Decide the boss button: either make `Snipe` a real single-target setup, or move toward an `Ice Shot`/`Barrage` boss package.
+4. Prepare a boss gem swap if keeping `Fork` for mapping. `Fork` is a clear support; it should not be treated as the boss answer.
+
+### Phase 1: Repair damage and floor together
 
 Goal:
 
@@ -213,29 +288,32 @@ Cold: 75
 Lightning: 75
 Chaos: 20-30+
 Movement speed: keep 25%+ if possible
+Main damage skill: higher gem level, better supports, real boss plan
 ```
 
 Buy or craft in this order:
 
-1. Boots with movement speed, life, and two resistances.
-2. Rare ring replacing the Topaz ring with life and missing resistances.
-3. Jewel replacing the fire/banner jewel with bow/cold/projectile value.
-4. Amulet only if it preserves enough Spirit.
+1. Jewel replacing the fire/banner jewel with bow/cold/projectile value.
+2. Rare ring replacing the Topaz ring with life, missing resistances, and flat elemental attack damage if possible.
+3. Boots with movement speed, life, and two resistances.
+4. Quiver upgrade if affordable: flat elemental damage, projectile damage, attack speed, critical value, or accuracy.
+5. Bow upgrade when budget allows: higher elemental DPS, attack speed, and projectile skill level.
 
-### Phase 2: Improve damage after the floor is fixed
+### Phase 2: Real boss rebuild
 
-Once the character is capped and no longer getting randomly killed:
+Once the character is capped enough to play:
 
-1. Upgrade the bow for higher elemental DPS and projectile level.
-2. Upgrade quiver for better flat damage, attack speed, crit, or projectile scaling.
-3. Tune supports for the actual main skill that feels best in maps.
-4. Consider whether Snipe is really winning boss fights; if not, move that socket pressure into a more reliable single-target setup.
+1. Upgrade the bow for higher elemental DPS, attack speed, and projectile level.
+2. Upgrade quiver for flat elemental damage, projectile damage, attack speed, crit, or accuracy.
+3. Move jewelry from "random useful stats" toward "life/resist plus attack damage".
+4. Tune supports around the actual boss skill, not around clear.
+5. If `Snipe` still does not beat just attacking, drop it as the boss plan.
 
 ## Slot-by-Slot Notes
 
 ### Keep for now
 
-- Bow: good enough for level 68 repair stage.
+- Bow: acceptable for early mapping, but not a long-term boss weapon.
 - Body armour: strong life and useful resistances.
 - Helmet: strong life.
 - Belt: strong life and 3 charm slots.
@@ -244,8 +322,9 @@ Once the character is capped and no longer getting randomly killed:
 ### Replace soon
 
 - Boots: needs life and more resistance.
-- Rare ring: needs real resistance/life value.
+- Rare ring: needs real resistance/life value and ideally attack damage.
 - Jewel: current mods do not match the build.
+- Quiver: current flat damage is useful, but it lacks the stronger boss scaling expected from this slot.
 
 ### Replace carefully
 
@@ -310,24 +389,53 @@ Strong adds:
 - maximum life
 - resistance
 
+### Bow
+
+Required:
+
+- much higher elemental DPS than the current bow
+- attack speed, or a clearly stronger total damage profile
+- projectile skill level if available
+
+Strong adds:
+
+- flat cold damage
+- flat lightning or fire damage
+- critical strike chance / critical damage direction
+- accuracy or dexterity if needed
+
+### Quiver
+
+Required:
+
+- flat elemental damage to attacks
+- projectile damage or attack speed
+
+Strong adds:
+
+- critical damage / critical chance direction
+- accuracy
+- dexterity
+- resistance if it prevents another slot from becoming defensive-only
+
 ## Final Recommendation
 
-Do the boring repair first:
+Do the correct rebuild first:
 
 ```text
-boots -> rare ring -> jewel
+jewel -> rare ring -> boots -> quiver -> bow
 ```
 
 That should move the character from:
 
 ```text
-undercapped early-map bow character
+undercapped early-map bow character with no boss engine
 ```
 
 to:
 
 ```text
-stable cold projectile Deadeye that can actually test its damage setup
+stable cold projectile Deadeye with a real boss button
 ```
 
-Plain version: this is not a full rebuild. It is a resistance-and-floor repair. Cap fire/cold/lightning, get chaos off zero, replace the dead jewel, and only then pay for the next damage item.
+Plain version: the first report was too gentle for the boss complaint. If bosses take two minutes, this is a damage-engine repair, not only a resistance repair. Cap the character enough to stop panic-playing, but spend the upgrade path on the parts that actually shorten the fight: gem levels, jewel, rare ring, quiver, bow, and boss supports.
