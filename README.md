@@ -11,31 +11,73 @@
 
 ## Guides
 
-- [Huntress First 20 Levels: Spirit Walker Companion Direction](guides/huntress-spirit-walker-next-20-levels.en.md)
+### Huntress Spirit Walker
 
-- [Huntress 前 20 級路線：Spirit Walker 夥伴召喚方向](guides/huntress-spirit-walker-next-20-levels.zh-TW.md)
+- [English: Huntress First 20 Levels](guides/huntress-spirit-walker-next-20-levels.en.md)
+- [繁中：Huntress 前 20 級路線](guides/huntress-spirit-walker-next-20-levels.zh-TW.md)
 
 ## Showcases
 
-- [Random Level 70 Tactician Repair Demo](showcases/random-level-70-tactician-repair-demo.en.md)
+### Deadeye / Bow
 
-- [随机 Level 70 Tactician 修车 Demo](showcases/random-level-70-tactician-repair-demo.zh-CN.md)
+- [English: imnotaranger Deadeye Repair](showcases/imnotaranger-deadeye-repair.en.md)
+- [简中：imnotaranger Deadeye 修车报告](showcases/imnotaranger-deadeye-repair.zh-CN.md)
+- [繁中：imnotaranger Deadeye 修車報告](showcases/imnotaranger-deadeye-repair.zh-TW.md)
 
-- [Blood Mage Repair Demo](showcases/pig-blood-mage-repair-demo.en.md)
+### Spirit Walker / Companion
 
-- [Blood Mage 修车 Demo](showcases/pig-blood-mage-repair-demo.zh-CN.md)
+#### Meongy
 
-- [Blood Mage 修車 Demo](showcases/pig-blood-mage-repair-demo.zh-TW.md)
+- [English: Meongy Companion Repair](showcases/meongy-spirit-walker-companion-repair.en.md)
+- [English: Meongy Follow-Up 1c2c4](showcases/meongy-spirit-walker-followup-1c2c4.en.md)
+- [English: Meongy Wukong Damage Review 1c6e2](showcases/meongy-wukong-damage-review-1c6e2.en.md)
+- [简中：Meongy 伙伴召唤修车报告](showcases/meongy-spirit-walker-companion-repair.zh-CN.md)
+- [简中：Meongy 伙伴召唤后续报告 1c2c4](showcases/meongy-spirit-walker-followup-1c2c4.zh-CN.md)
+- [简中：Meongy 悟空伤害修车报告 1c6e2](showcases/meongy-wukong-damage-review-1c6e2.zh-CN.md)
+- [繁中：Meongy 夥伴召喚修車報告](showcases/meongy-spirit-walker-companion-repair.zh-TW.md)
+- [繁中：Meongy 夥伴召喚後續報告 1c2c4](showcases/meongy-spirit-walker-followup-1c2c4.zh-TW.md)
+- [繁中：Meongy 悟空傷害修車報告 1c6e2](showcases/meongy-wukong-damage-review-1c6e2.zh-TW.md)
 
-- [Hollow Palm Monk Repair Demo](showcases/mei-monk-hollow-palm-repair-demo.en.md)
+### Blood Mage
 
-- [Hollow Palm Monk 修车 Demo](showcases/mei-monk-hollow-palm-repair-demo.zh-CN.md)
+- [English: Blood Mage Repair Demo](showcases/pig-blood-mage-repair-demo.en.md)
+- [简中：Blood Mage 修车 Demo](showcases/pig-blood-mage-repair-demo.zh-CN.md)
+- [繁中：Blood Mage 修車 Demo](showcases/pig-blood-mage-repair-demo.zh-TW.md)
 
-- [Martial Artist To Comet Minion Conversion Review](showcases/martial-artist-to-comet-minion-conversion.en.md)
+### WitchHehes Blood Mage Reference
 
-- [Martial Artist 转召死彗星修车报告](showcases/martial-artist-to-comet-minion-conversion.zh-CN.md)
+- [English: Recovery Analysis](showcases/witchhehes-blood-mage-recovery-analysis.en.md)
+- [English: Cost Sustain Follow-Up](showcases/witchhehes-blood-mage-cost-sustain-followup.en.md)
+- [简中：回血机制分析](showcases/witchhehes-blood-mage-recovery-analysis.zh-CN.md)
+- [简中：技能消耗维持追踪](showcases/witchhehes-blood-mage-cost-sustain-followup.zh-CN.md)
+- [繁中：回血機制分析](showcases/witchhehes-blood-mage-recovery-analysis.zh-TW.md)
+- [繁中：技能消耗維持追蹤](showcases/witchhehes-blood-mage-cost-sustain-followup.zh-TW.md)
 
-- [Martial Artist 轉召死彗星修車報告](showcases/martial-artist-to-comet-minion-conversion.zh-TW.md)
+### Monk / Martial Artist
+
+- [English: Hollow Palm Monk Repair Demo](showcases/mei-monk-hollow-palm-repair-demo.en.md)
+- [简中：Hollow Palm Monk 修车 Demo](showcases/mei-monk-hollow-palm-repair-demo.zh-CN.md)
+- [English: Martial Artist To Comet Minion Conversion Review](showcases/martial-artist-to-comet-minion-conversion.en.md)
+- [简中：Martial Artist 转召死彗星修车报告](showcases/martial-artist-to-comet-minion-conversion.zh-CN.md)
+- [繁中：Martial Artist 轉召死彗星修車報告](showcases/martial-artist-to-comet-minion-conversion.zh-TW.md)
+
+### Invoker / Comet Trigger
+
+- [English: MewOoooooO Invoker Comet Repair](showcases/mewoooooo-invoker-comet-repair.en.md)
+- [简中：MewOoooooO Invoker 彗星触发修车报告](showcases/mewoooooo-invoker-comet-repair.zh-CN.md)
+- [繁中：MewOoooooO Invoker 彗星觸發修車報告](showcases/mewoooooo-invoker-comet-repair.zh-TW.md)
+- [English: MewOoooooO 4000 Mana Follow-Up](showcases/mewoooooo-4000-mana-followup.en.md)
+- [简中：MewOoooooO 4000 Mana 后续报告](showcases/mewoooooo-4000-mana-followup.zh-CN.md)
+- [繁中：MewOoooooO 4000 Mana 後續報告](showcases/mewoooooo-4000-mana-followup.zh-TW.md)
+
+### Tactician
+
+- [English: Random Level 70 Tactician Repair Demo](showcases/random-level-70-tactician-repair-demo.en.md)
+- [简中：随机 Level 70 Tactician 修车 Demo](showcases/random-level-70-tactician-repair-demo.zh-CN.md)
+
+## Loot Filters
+
+- [Meongy Spirit Walker Level 65 Filter](loot-filters/meongy-spirit-walker-level-65.filter)
 
 ## Posture
 
